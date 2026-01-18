@@ -50,3 +50,11 @@ Sistem akan otomatis memotong stok barang saat data masuk ke tabel rinci transak
 INSERT INTO Transaksi VALUES ('TRX-005', NOW(), 5000, 'Tunai', 'P01', 'K01');
 INSERT INTO Detail_Transaksi VALUES ('TRX-005', 'B001', 2, 5000);
 -- Cek Stok Barang B001, otomatis berkurang 2 unit.
+
+2. Melihat Laporan (View)
+SELECT * FROM V_Laporan_Harian;
+
+3. Mencetak Struk
+Menampilkan detail belanja lengkap dengan nama barang.
+-- Jalankan query JOIN yang ada di file SQL bagian "Query Laporan"
+
