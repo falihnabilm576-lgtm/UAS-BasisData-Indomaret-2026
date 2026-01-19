@@ -24,15 +24,6 @@ Proyek ini dikembangkan menggunakan perangkat lunak berikut:
 
 ---
 
-## 📂 Struktur Folder
-Repository ini disusun dengan struktur sebagai berikut:
-
-* **/SQL** : Berisi file `data_kasir.sql` (Source code database).
-* **/Dokumen** : Berisi `UAS_Basis_Data_Final.pdf` dan `Poster_Kasir_Indomaret.pdf`.
-* **README.md** : Dokumentasi proyek.
-
----
-
 ## ⚙️ Langkah Instalasi (Setup Database)
 Ikuti langkah berikut untuk memasang database ini di komputer Anda:
 
