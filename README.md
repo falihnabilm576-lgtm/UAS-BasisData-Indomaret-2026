@@ -37,6 +37,36 @@ Ikuti langkah berikut untuk memasang database ini di komputer Anda:
 5.  **Eksekusi Script:**
     * Klik tombol **Petir** ⚡ (Execute) di toolbar atas.
     * Pastikan output di bagian bawah menunjukkan pesan hijau (Success).
+  
+---
+
+## RELASI ANTAR TABEL
+<img width="955" height="548" alt="image" src="https://github.com/user-attachments/assets/02b373b0-8dc0-49e3-a836-c4eb273ecaf3" />
+
+---
+
+## Query Join (Cetak Struk Belanja) 
+<img width="1044" height="246" alt="image" src="https://github.com/user-attachments/assets/ced2f249-59cb-40aa-8f92-a1cef91e2b5d" />
+
+---
+
+## Query Aggregation & Group By (Laporan Omset Kasir) 
+<img width="1041" height="246" alt="image" src="https://github.com/user-attachments/assets/a20de54e-e689-4173-9272-b9ce700ade25" />
+
+---
+
+## Query Having (Analisis Barang Terlaris) 
+<img width="1038" height="246" alt="image" src="https://github.com/user-attachments/assets/897304c9-d8d3-4db1-91e6-007715ac290c" />
+
+---
+
+## SQL Subquery
+<img width="1033" height="247" alt="image" src="https://github.com/user-attachments/assets/09ef0501-3b9c-4fbd-9870-3a730d0dd15d" />
+
+---
+
+## SQL View
+<img width="1033" height="247" alt="image" src="https://github.com/user-attachments/assets/2f042825-5dd4-44bd-8337-f36dbeb9d899" />
 
 ---
 
@@ -57,4 +87,7 @@ SELECT * FROM V_Laporan_Harian;
 3. Mencetak Struk
 Menampilkan detail belanja lengkap dengan nama barang.
 -- Jalankan query JOIN yang ada di file SQL bagian "Query Laporan"
+
+2.3.3 RELASI ANTAR TABEL
+<img width="955" height="548" alt="image" src="https://github.com/user-attachments/assets/02b373b0-8dc0-49e3-a836-c4eb273ecaf3" />
 
